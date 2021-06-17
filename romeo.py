@@ -30,7 +30,7 @@ print(L1)
 L2 = L[1::2]
 print(L2)
 
-#L.delete(3)
+del L[2]
 
 print(L)
 
